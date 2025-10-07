@@ -42,9 +42,8 @@
 
 ### 🌍 Контакты
 
-[![Telegram](https://img.shields.io/badge/Telegram-@KseniiaSedova-blue?style=for-the-badge&logo=telegram)](https://t.me/KseniiaSedova)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kseniia_Sedova-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-ksenia@example.com-red?style=for-the-badge&logo=gmail)](mailto:ksenia@example.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@KseniiaSedova-blue?style=for-the-badge&logo=telegram)](https://t.me/@ska_888)
+[![Email](https://img.shields.io/badge/Email-ksenia@example.com-red?style=for-the-badge&logo=gmail)](mailto:sedovaka1506@gmail.com)
 
 ---
 
