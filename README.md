@@ -43,7 +43,7 @@
 ### 🌍 Контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-@ska_888-blue?style=for-the-badge&logo=telegram)](https://t.me/ska_888)
-[![Email](https://img.shields.io/badge/Email-ksenia@example.com-red?style=for-the-badge&logo=gmail)](mailto:sedovaka1506@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sedovaka1506@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sedovaka1506@gmail.com)
 
 ---
 
