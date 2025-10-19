@@ -7,7 +7,7 @@
 ---
 
 ### 🛠️ Мой стек
-- **Backend:** Python • Django • FastAPI • SQLAlchemy  
+- **Backend:** Python • Django • FastAPI • SQLAlchemy  • Elasticsearch  
 - **Databases:** PostgreSQL • SQLite • SQL (для аналитики и разработки)  
 - **DevOps:** Docker • Docker Compose • Nginx  
 - **Frontend:** HTML • CSS • JS (базовый уровень)  
