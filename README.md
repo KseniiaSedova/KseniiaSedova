@@ -37,12 +37,6 @@
 > Он объединяет FastAPI, Aiogram и SQLAlchemy 2.0, обеспечивая стабильную работу и чистую архитектуру.
 ---
 
-
-### 🌍 Контакты
-
-[![Telegram](https://img.shields.io/badge/Telegram-@ska_888-blue?style=for-the-badge&logo=telegram)](https://t.me/ska_888)
-[![Email](https://img.shields.io/badge/Email-sedovaka1506@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sedovaka1506@gmail.com)
-
 ---
 
 ⭐️ *Люблю учиться новому и делаю код, который понятен не только машине, но и людям.*
