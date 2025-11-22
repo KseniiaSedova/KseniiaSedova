@@ -32,7 +32,7 @@
 > Асинхронный стек: FastAPI, aiogram, SQLAlchemy 2.0, PostgreSQL, Docker.  
 > Реализована система ролей, бронирования смен и уведомлений.
 
-#### 🤖 [Birthday_async_buddy] (https://github.com/KseniiaSedova/Birthday_async_buddy)
+#### 🤖 [Birthday_async_buddy](https://github.com/KseniiaSedova/Birthday_async_buddy)
 > Buddy Bot — это асинхронный Telegram-бот, который напоминает о днях рождениях коллег, друзей или сотрудников.
 > Он объединяет FastAPI, Aiogram и SQLAlchemy 2.0, обеспечивая стабильную работу и чистую архитектуру.
 ---
