@@ -31,6 +31,8 @@
 * Docker Compose
 * Nginx
 * Linux
+* CI/CD
+* GitHub Actions
   
 ### Messaging
 - Apache Kafka
