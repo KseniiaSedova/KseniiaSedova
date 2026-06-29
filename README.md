@@ -9,13 +9,15 @@
 ## Tech Stack
 
 ### Backend
-
-* Python
-* FastAPI
-* Django
-* SQLAlchemy
-* aiogram
-* Elasticsearch
+- Python
+- FastAPI
+- Django
+- Flask
+- SQLAlchemy
+- Alembic
+- Pydantic
+- aiogram
+- Elasticsearch
 
 ### Databases
 
@@ -28,7 +30,14 @@
 * Docker Compose
 * Nginx
 * Linux
-
+  
+### Messaging
+- Apache Kafka
+- WebSocket
+ 
+### Testing
+- Pytest
+     
 ### Frontend
 
 * HTML
