@@ -17,13 +17,14 @@
 - Alembic
 - Pydantic
 - aiogram
-- Elasticsearch
+
 
 ### Databases
-
-* PostgreSQL
-* SQLite
-
+- PostgreSQL
+- SQLite
+- Redis
+- Elasticsearch
+  
 ### DevOps
 
 * Docker
