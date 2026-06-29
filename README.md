@@ -2,13 +2,11 @@
 
 ## Python Backend Developer
 
-Разрабатываю backend-приложения на Python и создаю сервисы, которые решают реальные задачи — от Telegram-ботов до полноценных веб-приложений и корпоративных систем.
-
-Мне нравится проектировать чистую архитектуру, разрабатывать REST API, работать с асинхронными приложениями и создавать решения, которые легко поддерживать и масштабировать.
+Разрабатываю backend-приложения на Python, специализируюсь на создании REST API, асинхронных сервисов и веб-приложений. Стремлюсь писать понятный, поддерживаемый и масштабируемый код.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Backend
 
@@ -53,103 +51,56 @@
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 💬 [Corporate Messenger (Pulse Messenger)](https://github.com/KseniiaSedova/pulse-messenger)
+## [Corporate Messenger (Pulse Messenger)](https://github.com/KseniiaSedova/pulse-messenger)
 
-Современный корпоративный мессенджер с веб-клиентом и поддержкой обмена сообщениями в реальном времени.
+Корпоративный мессенджер с веб-клиентом, построенный на FastAPI и WebSocket. Поддерживает регистрацию и JWT-аутентификацию, личные и групповые чаты, обмен файлами, статусы прочтения сообщений, управление контактами и работу в режиме реального времени. Backend реализован по принципам Clean Architecture, frontend — одностраничное приложение на Vanilla JavaScript.
 
-**Стек:** FastAPI • SQLAlchemy 2.0 • PostgreSQL • WebSocket • JWT • Docker • Nginx • Vanilla JavaScript
-
-### Реализовано
-
-* 🔐 Регистрация и JWT-аутентификация
-* 💬 Личные и групповые чаты
-* ⚡ Realtime через WebSocket
-* 📎 Отправка файлов и вложений
-* 👥 Контакты пользователей
-* ✅ Статусы прочтения сообщений
-* 🗑️ Персональное и глобальное удаление сообщений
-* 👑 Передача прав владельца группы
-* 🏗️ Clean Architecture
-* 🔄 Dependency Injection
-* 🐳 Docker + Nginx
+**Stack:** FastAPI • SQLAlchemy 2.0 • PostgreSQL • WebSocket • JWT • Docker • Nginx • Vanilla JavaScript
 
 ---
 
-## ☕ [Skuratov Coffee Team](https://github.com/Studio-Yandex-Practicum/skuratov_coffee_team1)
+## [Skuratov Coffee Team](https://github.com/Studio-Yandex-Practicum/skuratov_coffee_team1)
 
-Telegram-бот и веб-панель администратора для управления сменами в сети кофеен.
+Система управления сменами для сети кофеен, включающая Telegram-бота и административную веб-панель. Проект построен на асинхронном стеке и автоматизирует распределение смен, управление ролями пользователей и отправку уведомлений.
 
-**Стек:** FastAPI • aiogram • SQLAlchemy 2.0 • PostgreSQL • Docker
-
-### Реализовано
-
-* система ролей;
-* бронирование смен;
-* уведомления сотрудников;
-* административная панель;
-* полностью асинхронная архитектура.
+**Stack:** FastAPI • aiogram • SQLAlchemy 2.0 • PostgreSQL • Docker
 
 ---
 
-## 🤖 [Birthday Async Buddy](https://github.com/KseniiaSedova/Birthday_async_buddy)
+## [Birthday Async Buddy](https://github.com/KseniiaSedova/Birthday_async_buddy)
 
-Асинхронный сервис напоминаний о днях рождения коллег, друзей и сотрудников.
+Асинхронный сервис для автоматических уведомлений о днях рождения сотрудников, коллег и друзей. Архитектура разделена на API и Telegram-бота, что обеспечивает масштабируемость и удобство сопровождения.
 
-**Стек:** FastAPI • aiogram • SQLAlchemy 2.0 • PostgreSQL • Docker
-
-### Реализовано
-
-* REST API;
-* Telegram-бот;
-* автоматические уведомления;
-* чистая архитектура;
-* разделение API и Bot на отдельные сервисы;
-* Docker-инфраструктура.
+**Stack:** FastAPI • aiogram • SQLAlchemy 2.0 • PostgreSQL • Docker
 
 ---
 
-## 🍔 [Foodgram](https://github.com/KseniiaSedova/foodgram-project-react)
+## [Foodgram](https://github.com/KseniiaSedova/foodgram-project-react)
 
-Веб-сервис публикации рецептов и формирования списка покупок.
+Веб-приложение для публикации рецептов, управления избранным и формирования списка покупок. Проект контейнеризирован и использует CI/CD для автоматизации сборки и развёртывания.
 
-**Стек:** Django REST Framework • React • PostgreSQL • Docker • GitHub Actions
-
-### Реализовано
-
-* публикация рецептов;
-* избранное;
-* подписки;
-* список покупок;
-* CI/CD;
-* контейнеризация приложения.
+**Stack:** Django REST Framework • React • PostgreSQL • Docker • GitHub Actions
 
 ---
 
-## 🎬 [API Yamdb](https://github.com/svtplv/api_yamdb)
+## [API Yamdb](https://github.com/svtplv/api_yamdb)
 
-REST API для сервиса отзывов, рейтингов и каталога произведений.
+REST API для платформы отзывов и рейтингов произведений с поддержкой JWT-аутентификации, системы ролей и автоматической документации API.
 
-**Стек:** Django REST Framework • PostgreSQL
-
-### Реализовано
-
-* JWT-аутентификация;
-* отзывы и комментарии;
-* категории и жанры;
-* документация Swagger/OpenAPI.
+**Stack:** Django REST Framework • PostgreSQL
 
 ---
 
+## Currently Learning
 
-## 💡 About Me
-
-Люблю создавать проекты, которые решают реальные задачи, постоянно изучаю новые технологии и совершенствую навыки backend-разработки.
-
-Использую современные AI-инструменты (Cursor, Claude и ChatGPT) для анализа архитектуры, рефакторинга, документирования и ускорения разработки, сохраняя полный контроль над качеством и логикой кода.
+* Distributed systems
+* High-load backend architecture
+* Elasticsearch
+* DevOps
+* AI-assisted software development
 
 ---
 
-⭐️ **Always learning. Always building.**
-
+> *Building reliable backend systems and continuously improving as a software engineer.*
