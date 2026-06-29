@@ -103,14 +103,6 @@ REST API для платформы отзывов и рейтингов прои
 
 ---
 
-## Currently Learning
 
-* Distributed systems
-* High-load backend architecture
-* Elasticsearch
-* DevOps
-* AI-assisted software development
-
----
 
 > *Building reliable backend systems and continuously improving as a software engineer.*
