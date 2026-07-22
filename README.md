@@ -72,6 +72,14 @@
 **Stack:** FastAPI • SQLAlchemy 2.0 • PostgreSQL • WebSocket • JWT • Docker • Nginx • Vanilla JavaScript
 
 ---
+## [Billing Service](https://github.com/vvlrff/graduate_work)
+
+Микросервис для обработки платежей и управления подписками онлайн-кинотеатра. Поддерживает создание платежей, идемпотентную обработку повторных запросов, прием webhook-событий от YooKassa, возвраты денежных средств и административное управление тарифами, платежами и возвратами. REST API автоматически документируется через OpenAPI (Swagger), сервис развёрнут в Docker с использованием Nginx.
+
+**Live Demo:** https://carsandcontrol.ru/docs  
+**Admin Panel:** https://carsandcontrol.ru/admin
+
+**Stack:** FastAPI • SQLAlchemy 2.0 • PostgreSQL • YooKassa • SQLAdmin • Docker • Nginx
 
 ## [Skuratov Coffee Team](https://github.com/Studio-Yandex-Practicum/skuratov_coffee_team1)
 
