@@ -69,6 +69,9 @@
 
 Корпоративный мессенджер с веб-клиентом, построенный на FastAPI и WebSocket. Поддерживает регистрацию и JWT-аутентификацию, личные и групповые чаты, обмен файлами, статусы прочтения сообщений, управление контактами и работу в режиме реального времени. Backend реализован по принципам Clean Architecture, frontend — одностраничное приложение на Vanilla JavaScript.
 
+**Live Demo:**  https://pulseportal.ru/ 
+**Документация:** https://pulseportal.ru/docs
+
 **Stack:** FastAPI • SQLAlchemy 2.0 • PostgreSQL • WebSocket • JWT • Docker • Nginx • Vanilla JavaScript
 
 ---
